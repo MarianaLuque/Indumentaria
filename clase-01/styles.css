@@ -2,7 +2,7 @@
     color: rgb(9, 18, 153);
     background-color: rgb(103, 185, 103);
     text-align: center;
-    border-radius: ;
+    
 }
 .contenedor h2{
     color: blueviolet;
@@ -13,4 +13,14 @@
 }
 .parrafo p{ 
     color: palevioletred;
+}
+
+.padre{
+    display: flex;
+    flex-direction: row;
+}
+
+.card.text{
+    color: black;
+    font-size: 1rem;
 }
